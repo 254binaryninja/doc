@@ -10,7 +10,7 @@ export default function App() {
       <div className="min-h-screen bg-gray-100">
         <nav className="bg-blue-600 text-white p-4 flex space-x-4">
           <Link to="/" className="hover:underline">Home</Link>
-          <Link to="/chat" className="hover:underline">Chat</Link>
+          <Link to="#" className="hover:underline">Chat</Link>
           <Link to="/resources" className="hover:underline">Resources</Link>
         </nav>
         <Routes>
